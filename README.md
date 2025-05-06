@@ -1,1 +1,3 @@
 # VaM2_Manager
+
+VaM2_Manager 是一个用于启动和管理 VaM2 的工具，本项目正在开发中，敬请期待……
